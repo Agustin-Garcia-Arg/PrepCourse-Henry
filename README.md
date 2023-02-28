@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-intento numero 2 de esto
+Este proyecto es una prueba de como crear y clonar un repositorio
